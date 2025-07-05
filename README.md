@@ -4,9 +4,17 @@ Deceptive patterns are design techniques that manipulate users into unintended b
 
 # Repository Structure
 
-.
+
 ├── bi/                      # Power BI Dashboard 
+
+ 
 ├── data/                    # original, predicted and manually labeled datasets
+
+ 
 ├── img/                     # confusion matrix
-├── README.md                    # Thesis Abstract
+
+ 
+├── README.md                    # Thesis Abstract 
+
+ 
 └── thesis-script.ipynb       #Jupyter notebook
